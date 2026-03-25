@@ -16,3 +16,6 @@ Understanding API communication is fundamental for designing scalable and standa
 
 ## What is API
 API is a standardized interface that enables communication between systems through request-response interactions, where data is exchanged in structured formats such as JSON.
+
+## What is REST API
+REST API is an architectural style that uses standard HTTP methods to operate on resources in a stateless and structured way.
