@@ -1,18 +1,15 @@
 # Day 1 - API Basics
 
 ## What I did
-- Sent GET requests using Postman
-- Retrieved data from a public API
-- Compared endpoints
+- Executed GET requests using Postman
+- Retrieved JSON data from a public API
+- Compared different endpoint structures
 
 ## Key Learnings
-- API works as request → response
-- JSON is a structured data format
-- Path parameter identifies a resource
-- Query parameter filters data
+- API enables structured communication between systems via request-response model
+- JSON provides a lightweight and standardized data format
+- Path parameters identify specific resources
+- Query parameters allow flexible data filtering
 
 ## Why it matters
-API is a standardized way for systems to communicate, where a client sends a request and receives structured data, typically in JSON format.
-
-## Scope
-This repository focuses on understanding API concepts at an architectural level, rather than implementation details.
+Understanding API communication is fundamental for designing scalable and standardized integrations between systems.
