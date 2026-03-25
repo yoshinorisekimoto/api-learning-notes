@@ -21,4 +21,6 @@ API is a standardized interface that enables communication between systems throu
 REST API is an architectural style that uses standard HTTP methods to operate on resources in a stateless and structured way.
 
 ## Why we use REST API
-REST API is simple and we can do scalable approach with standardization
+REST APIs are widely used because they are simple, scalable, and standardized.
+- They use standard HTTP methods such as GET, POST, PUT, and DELETE
+- They follow a resource-based structure, making them easy to understand and extend
