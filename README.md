@@ -13,3 +13,6 @@
 
 ## Why it matters
 API is a standardized way for systems to communicate, where a client sends a request and receives structured data, typically in JSON format.
+
+## Scope
+This repository focuses on understanding API concepts at an architectural level, rather than implementation details.
