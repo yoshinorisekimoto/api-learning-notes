@@ -12,4 +12,4 @@
 - Query parameter filters data
 
 ## Why it matters
-APIs enable standardized communication between systems.
+API is a standardized way for systems to communicate, where a client sends a request and receives structured data, typically in JSON format.
