@@ -1,16 +1,20 @@
-# API Learning Notes
+# Day 1 - API Basics
 
-## Purpose
-Hands-on learning for API fundamentals using Postman.
+## What I did
+- Sent GET requests using Postman
+- Retrieved data from a public API
+- Compared different endpoints
 
-## Topics
-- REST API
-- HTTP methods (GET, POST, PUT, DELETE)
-- JSON structure
-- Query and Path parameters
-- Authentication (API Key, OAuth)
-- Rate limiting
-- Idempotency
+## Key Learnings
+- API works as request → response
+- JSON is a structured data format using key-value pairs
+- Path parameter identifies a specific resource
+- Query parameter filters data
 
-## Progress
-- Day 1: API Basics (GET, JSON, parameters)
+## Example
+GET /posts  
+GET /posts/1  
+GET /posts?userId=1  
+
+## Why it matters
+Understanding API communication is essential for building scalable and standardized integrations.
