@@ -13,3 +13,6 @@
 
 ## Why it matters
 Understanding API communication is fundamental for designing scalable and standardized integrations between systems.
+
+## What is API
+API is a standardized interface that enables communication between systems through request-response interactions, where data is exchanged in structured formats such as JSON.
