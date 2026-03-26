@@ -37,3 +37,19 @@ REST API is an architectural style that uses standard HTTP methods to operate on
 REST APIs are widely used because they are simple, scalable, and standardized.
 - They use standard HTTP methods such as GET, POST, PUT, and DELETE
 - They follow a resource-based structure, making them easy to understand and extend
+
+- # Step 2 - CRUD with API
+
+## What I did
+- Sent POST request to create data
+- Sent PUT request to update data
+- Sent DELETE request to remove data
+
+## Key Learnings
+- POST creates new resources
+- PUT replaces existing resources
+- DELETE removes resources
+- These operations correspond to CRUD (Create, Read, Update, Delete)
+
+## Why it matters
+CRUD operations are fundamental to how systems manage and manipulate data through APIs.
