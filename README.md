@@ -57,3 +57,6 @@ CRUD operations are fundamental to how systems manage and manipulate data throug
 ## Additional Learnings
 - PUT replaces the entire resource, while PATCH updates only specific fields
 - Understanding the difference is important to avoid unintended data overwrites
+
+## Scope
+This repository focuses on understanding API concepts at an architectural level rather than implementation details.
