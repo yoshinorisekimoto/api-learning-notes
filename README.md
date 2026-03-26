@@ -61,7 +61,7 @@ CRUD operations are fundamental to how systems manage and manipulate data throug
 ## Scope
 This repository focuses on understanding API concepts at an architectural level rather than implementation details.
 
-# Day 3 - API Parameters
+# Step 3 - API Parameters
 
 ## What I did
 - Used path parameters to access specific resources
@@ -80,3 +80,24 @@ This repository focuses on understanding API concepts at an architectural level 
 
 ## Why it matters
 Understanding how to structure API requests is essential for designing flexible, secure, and scalable system integrations.
+
+# Step 4 - JSON Structure
+
+## What I did
+- Examined JSON responses from API requests
+- Identified objects, arrays, and nested structures
+- Connected JSON structure with data modeling concepts
+
+## Key Learnings
+- JSON is a structured data format using key-value pairs
+- Objects `{}` represent a single entity
+- Arrays `[]` represent a collection of items
+- JSON supports nested structures to represent relationships between data
+
+## Additional Learnings
+- JSON defines how data is structured and exchanged between systems
+- Databases store and manage data, while JSON represents its structure
+- Nested JSON reflects real-world relationships between entities
+
+## Why it matters
+Understanding JSON is essential because it represents how data is structured, stored, and exchanged across APIs and systems.
