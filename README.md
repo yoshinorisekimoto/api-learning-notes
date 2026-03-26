@@ -1,4 +1,17 @@
-# Day 1 - API Basics
+# API Learning Notes
+
+This repository contains my learning notes and hands-on exercises on APIs, including REST, authentication, and integration patterns.
+
+## Key Topics
+- REST API fundamentals
+- Request/Response structure (JSON)
+- Authentication (API Key, OAuth basics)
+- Integration concepts
+
+## Purpose
+To deepen my understanding of API-driven ecosystems and platform integrations, which are core to my work in partnerships and ecosystem development.
+
+# Step 1 - API Basics
 
 ## What I did
 - Executed GET requests using Postman
