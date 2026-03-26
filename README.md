@@ -101,3 +101,4 @@ Understanding how to structure API requests is essential for designing flexible,
 
 ## Why it matters
 Understanding JSON is essential because it represents how data is structured, stored, and exchanged across APIs and systems.
+- JSON structure reflects how data is modeled in real-world systems
