@@ -22,5 +22,8 @@ Base URL as an environment variable:
 - Using variables makes it easier to switch between environments without changing each request manually
 
 ## Why it matters
-Collections and environment variables improve API organization, reusability, and maintainability.
-They also reflect how APIs are grouped and managed in real-world systems.
+In real-world systems, APIs are not used individually but as part of a service.
+Collections and environment variables help manage this complexity and enable scalable API usage across different environments.
+
+## Additional Insight
+Collections represent how APIs are structured at a service level, not just individual endpoints.
