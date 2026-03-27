@@ -14,7 +14,7 @@ Hands-on learning for API fundamentals using Postman.
 - [Step 2 - CRUD with API](notes/Step2-crud-with-api.md)
 - [Step 3 - API Parameters](notes/Step3-api-parameters.md)
 - [Step 4 - JSON Structure](notes/Step4-json-structure.md)
-- [Step 5 - API Authentication](notes/Step5-api-authentication.md)
+- [Step 5 - API Authentication](notes/Step5-API-Authentication.md)
 
 ## Related Learning
 Extending API-level understanding to system-level architecture:
