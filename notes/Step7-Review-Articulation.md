@@ -20,5 +20,7 @@ Authentication is handled through headers using API keys or OAuth tokens.
 Collections group related APIs, and environment variables enable reuse and scalability across different environments.
 
 ## Why it matters
-Being able to explain APIs clearly demonstrates a deeper understanding beyond implementation.
-It shows the ability to think in terms of systems and architecture.
+Being able to clearly explain APIs demonstrates not only technical understanding but also the ability to think in terms of system design and architecture.
+
+## Key Insight
+APIs should be understood as part of a system architecture, not just individual requests.
