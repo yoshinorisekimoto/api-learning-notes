@@ -16,6 +16,7 @@ Hands-on learning for API fundamentals using Postman.
 - [Step 4 - JSON Structure](notes/Step4-json-structure.md)
 - [Step 5 - API Authentication](notes/Step5-API-Authentication.md)
 - [Step 6 - Collections and Environment Variables](notes/Step6-Collections-Environment-Variables.md)
+- [Step 7 - Review and Articulation](notes/Step7-Review-Articulation.md)
 
 ## Related Learning
 Extending API-level understanding to system-level architecture:
