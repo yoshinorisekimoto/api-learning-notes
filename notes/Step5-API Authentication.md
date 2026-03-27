@@ -19,7 +19,10 @@ Authorization: Bearer token123
 In Postman, setting a Bearer token in the Authorization tab automatically adds it to the request header.
 
 ## Why it matters
-Authentication ensures secure access to APIs and prevents unauthorized usage.
-OAuth enables scalable and secure communication between systems.
+Authentication is essential to protect APIs from unauthorized access.
+In real-world systems, OAuth is widely used to securely manage user access and enable scalable integrations.
 
 OAuth is widely used in real-world systems where user-based authentication is required.
+
+## Summary
+Authentication is implemented through headers, where tokens (like Bearer tokens) are used to verify access.
