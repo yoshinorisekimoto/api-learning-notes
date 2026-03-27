@@ -16,6 +16,7 @@ Hands-on learning for API fundamentals using Postman.
 - [Step 4 - JSON Structure](notes/Step4-json-structure.md)
 
 ## Related Learning
+Extending API-level understanding to system-level architecture:
 - AWS Architecture (Cloud / System Design)
 👉 [AWS Learning Plan](notes/AWS-learning-plan.md)
 
