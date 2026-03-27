@@ -15,5 +15,9 @@ Hands-on learning for API fundamentals using Postman.
 - [Step 3 - API Parameters](notes/Step3-api-parameters.md)
 - [Step 4 - JSON Structure](notes/Step4-json-structure.md)
 
+## Related Learning
+- AWS Architecture (Cloud / System Design)
+👉 [AWS Learning Plan](notes/AWS-learning-plan.md)
+
 ## Scope
 This repository focuses on understanding API concepts at an architectural level rather than implementation details.
