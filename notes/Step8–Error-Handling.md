@@ -15,5 +15,8 @@
 - Understanding the meaning of error codes is more important than reproducing every error in a mock API
 
 ## Why it matters
-Error codes help identify whether a problem comes from the request, authentication, or the server.
-This is essential for debugging and understanding API behavior in real-world systems.
+Understanding error codes helps identify the root cause of failures in APIs, whether they originate from the client, authentication, or the server.
+This is essential for debugging and designing reliable systems.
+
+## Key Insight
+Error codes indicate where the failure occurs in the system: client, authentication, or server.
