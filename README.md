@@ -18,6 +18,7 @@ Hands-on learning for API fundamentals using Postman.
 - [Step 6 - Collections and Environment Variables](notes/Step6-Collections-Environment-Variables.md)
 - [Step 7 - Review and Articulation](notes/Step7-Review-Articulation.md)
 - [Step 8 - Error Handling](notes/Step8–Error-Handling.md)
+- [Step 9 - Rate Limiting](notes/Step9–Rate-Limiting.md)
 
 ## Related Learning
 Extending API-level understanding to system-level architecture:
