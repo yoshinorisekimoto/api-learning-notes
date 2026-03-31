@@ -18,8 +18,8 @@
 - Understanding the concept is more important than observing it in all APIs
 
 ## Why it matters
-Rate limiting prevents system overload and ensures fair usage among clients.
-It is essential for maintaining stable and secure APIs.
+Rate limiting helps prevent system overload and ensures fair usage across clients.
+It is essential for maintaining stable, scalable, and secure APIs.
 
 ## Key Insight
 Rate limiting is a mechanism to protect system stability and ensure fair access among multiple clients.
