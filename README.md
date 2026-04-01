@@ -32,6 +32,14 @@ Each topic is organized step by step:
 - [Step 10 - Idempotency](notes/Step10–Idempotency.md)
 - [Step 11 - Webhook(Push-based Communication)](notes/Step11–Webhook.md)
 
+## Related Learning
+Extending API-level understanding to system-level architecture:
+- AWS Architecture (Cloud / System Design)
+👉 [AWS Learning Plan](notes/AWS-learning-plan.md)
+
+## Scope
+This repository focuses on understanding API concepts at an architectural level rather than implementation details.
+
 ## Example API Request
 
 Example POST request:
@@ -41,10 +49,3 @@ Example POST request:
   "title": "test"
 }
 
-## Related Learning
-Extending API-level understanding to system-level architecture:
-- AWS Architecture (Cloud / System Design)
-👉 [AWS Learning Plan](notes/AWS-learning-plan.md)
-
-## Scope
-This repository focuses on understanding API concepts at an architectural level rather than implementation details.
