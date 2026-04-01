@@ -40,22 +40,6 @@ Extending API-level understanding to system-level architecture:
 ## Scope
 This repository focuses on understanding API concepts at an architectural level rather than implementation details.
 
-## Example API Request
-
-Example POST request:
-
-```json
-{
-  "title": "test"
-}
-
-## Example Response:
-
-{
-  "title": "test",
-  "id": 101
-}
-
 ## Key Takeaway
 
 API is a standardized way for systems to communicate.
@@ -70,4 +54,18 @@ Platform architecture
 Partner integrations
 API-driven ecosystems
 
+## Example API Request
 
+Example POST request:
+
+```json
+{
+  "title": "test"
+}
+
+Example Response:
+
+{
+  "title": "test",
+  "id": 101
+}
