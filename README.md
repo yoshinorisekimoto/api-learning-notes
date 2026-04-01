@@ -54,18 +54,22 @@ Understanding API design, communication patterns, and system behavior is critica
 
 This repository reflects my effort to bridge business and technical perspectives.
 
-## Example API Request
+<h2>Example API Request</h2>
 
-Example POST request:
-
-```json
-{
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>POST</b>
+      <pre><code>{
   "title": "test"
-}
-
-Example Response:
-
-{
+}</code></pre>
+    </td>
+    <td valign="top" width="50%">
+      <b>Response</b>
+      <pre><code>{
   "title": "test",
   "id": 101
-}
+}</code></pre>
+    </td>
+  </tr>
+</table>
