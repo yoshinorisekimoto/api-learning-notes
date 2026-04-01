@@ -1,15 +1,25 @@
 # API Learning Notes
 
-## Purpose
-Hands-on learning for API fundamentals using Postman.
+## Overview
+This repository contains my hands-on learning journey for API fundamentals and architecture concepts.
 
-## Key Topics
-- REST API
-- JSON structure
-- Authentication
-- API design concepts
+The goal is not only to understand APIs, but to be able to explain system design concepts clearly.
 
-## Progress
+## What I Learned
+
+- REST API fundamentals (GET, POST, PATCH, DELETE)
+- JSON structure and data communication
+- Authentication (API Key, Bearer Token, OAuth concept)
+- API design and collections
+- Error handling (400, 401, 500)
+- Rate limiting
+- Idempotency
+- Webhook (push-based communication)
+
+## Structure
+
+Each topic is organized step by step:
+
 - [Step 1 - API Basics](notes/Step1-api-basics.md)
 - [Step 2 - CRUD with API](notes/Step2-crud-with-api.md)
 - [Step 3 - API Parameters](notes/Step3-api-parameters.md)
@@ -21,6 +31,15 @@ Hands-on learning for API fundamentals using Postman.
 - [Step 9 - Rate Limiting](notes/Step9–Rate-Limiting.md)
 - [Step 10 - Idempotency](notes/Step10–Idempotency.md)
 - [Step 11 - Webhook(Push-based Communication)](notes/Step11–Webhook.md)
+
+## Example API Request
+
+Example POST request:
+
+```json
+{
+  "title": "test"
+}
 
 ## Related Learning
 Extending API-level understanding to system-level architecture:
