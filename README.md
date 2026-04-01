@@ -3,7 +3,7 @@
 ## Overview
 This repository contains my hands-on learning journey for API fundamentals and architecture concepts. The goal is not only to understand APIs, but to be able to explain system design concepts clearly.
 
-This repository is also intended to demonstrate my ability to design and explain API-driven systems in platform and ecosystem environments.
+This repository is also intended to demonstrate my ability to design and explain API-driven systems in platform and ecosystem environments.This repository demonstrates not only my technical understanding of APIs, but also my ability to connect API concepts to platform architecture and ecosystem design.
 
 ## What I Learned
 - REST API fundamentals (GET, POST, PATCH, DELETE)
@@ -41,6 +41,8 @@ This repository focuses on understanding API concepts at an architectural level 
 ## Key Takeaway
 API is a standardized way for systems to communicate.
 Understanding API concepts helps design scalable systems, especially in platform and ecosystem environments.
+
+APIs are the foundation of modern platform ecosystems, enabling scalable integrations between systems.
 
 ## Why This Matters
 APIs are the foundation of modern platform ecosystems.
