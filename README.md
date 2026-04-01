@@ -1,13 +1,11 @@
 # API Learning Notes
 
 ## Overview
-This repository contains my hands-on learning journey for API fundamentals and architecture concepts.
-The goal is not only to understand APIs, but to be able to explain system design concepts clearly.
+This repository contains my hands-on learning journey for API fundamentals and architecture concepts. The goal is not only to understand APIs, but to be able to explain system design concepts clearly.
 
 This repository is also intended to demonstrate my ability to design and explain API-driven systems in platform and ecosystem environments.
 
 ## What I Learned
-
 - REST API fundamentals (GET, POST, PATCH, DELETE)
 - JSON structure and data communication
 - Authentication (API Key, Bearer Token, OAuth concept)
@@ -18,7 +16,6 @@ This repository is also intended to demonstrate my ability to design and explain
 - Webhook (push-based communication)
 
 ## Structure
-
 Each topic is organized step by step:
 
 - [Step 1 - API Basics](notes/Step1-api-basics.md)
@@ -42,13 +39,10 @@ Extending API-level understanding to system-level architecture:
 This repository focuses on understanding API concepts at an architectural level rather than implementation details.
 
 ## Key Takeaway
-
 API is a standardized way for systems to communicate.
-
 Understanding API concepts helps design scalable systems, especially in platform and ecosystem environments.
 
 ## Why This Matters
-
 APIs are the foundation of modern platform ecosystems.
 Understanding API design, communication patterns, and system behavior is critical for:
 
