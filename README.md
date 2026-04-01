@@ -49,3 +49,25 @@ Example POST request:
   "title": "test"
 }
 
+## Example Response:
+
+{
+  "title": "test",
+  "id": 101
+}
+
+## Key Takeaway
+
+API is a standardized way for systems to communicate.
+
+Understanding API concepts helps design scalable systems, especially in platform and ecosystem environments.
+
+## Why This Matters
+
+This learning is directly connected to:
+
+Platform architecture
+Partner integrations
+API-driven ecosystems
+
+
