@@ -8,7 +8,7 @@ Unlike REST APIs where the client requests data (pull), Webhooks push data witho
 
 ## What I did
 
-I simulated a webhook by sending a POST request using Postman with the following JSON:
+I simulated a webhook by sending a POST request using Postman.
 
 {
   "event": "order.created",
@@ -18,7 +18,7 @@ I simulated a webhook by sending a POST request using Postman with the following
 
 ## Result
 
-The server returned a response with an ID:
+The server returned:
 
 {
   "event": "order.created",
@@ -27,23 +27,27 @@ The server returned a response with an ID:
   "id": 101
 }
 
-This indicates that the server received and processed the event.
+This means the server received and processed the event.
 
 ## Key Learnings
 
 - Webhook is push-based communication
-- It is triggered by events, not by requests
+- It is triggered by events, not by client requests
 - Data is sent automatically via POST
-- The receiver must be ready to handle incoming requests
+- The receiving system must be ready to handle incoming requests
 
 ## Real-world Examples
 
-- Payment systems (e.g., payment completed → notify system)
-- Messaging platforms (new message → trigger notification)
-- ATS integrations (application submitted → send event)
+- Payment systems: payment completed → webhook sent
+- Messaging systems: new message → event notification
+- ATS: application submitted → webhook triggered
 
 ## Important Consideration
 
-Webhook events can be sent multiple times, so idempotency is important to prevent duplicate processing.
+Webhook events may be sent multiple times.
 
-Webhook requires a publicly accessible endpoint to receive the request.
+Therefore, idempotency is important to prevent duplicate processing.
+
+## Additional Insight
+
+Webhook requires a publicly accessible endpoint to receive requests.
