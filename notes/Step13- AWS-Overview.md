@@ -2,9 +2,7 @@
 
 ## What is AWS?
 AWS is a cloud platform that provides infrastructure as services.
-
-In simple terms:
-AWS = Infrastructure exposed via APIs
+In simple terms:　AWS = Infrastructure exposed via APIs
 
 ---
 
