@@ -1,4 +1,4 @@
-# Step14: Region / Availability Zone
+# Step14:Region/Availability Zone
 
 ## What is Region and AZ?
 
