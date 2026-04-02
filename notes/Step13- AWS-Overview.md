@@ -22,6 +22,7 @@ AWS provides these as managed services.
 - API = Entry point
 - Compute = Lambda / EC2
 - Storage = S3 / RDS
+- Network = VPC (connects everything)
 
 ---
 ## Key Insight
