@@ -31,6 +31,7 @@ Each topic is organized step by step:
 - [Step 11 - Webhook(Push-based Communication)](notes/Step11–Webhook.md)
 - [Step 12 - Design Thinking (Why API Design Matters)](notes/Step12-Design-Thinking.md)
 - [Step 13 - AWS Overview](notes/Step13-AWS-Overview.md)
+- [Step 14 - Region/Availability Zone](notes/Step14-Region-Availability-Zone.md)
 
 ## Related Learning
 Extending API-level understanding to system-level architecture:
