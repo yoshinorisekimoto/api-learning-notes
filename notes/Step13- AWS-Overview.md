@@ -1,4 +1,4 @@
-# STEP13: AWS Overview
+# Step13: AWS Overview
 
 ## What is AWS?
 AWS is a cloud platform that provides infrastructure as services.
