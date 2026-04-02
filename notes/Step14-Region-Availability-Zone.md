@@ -6,6 +6,8 @@ AWS infrastructure is divided into:
 - Region: geographic area (e.g., Tokyo)
 - Availability Zone (AZ): isolated data centers within a region
 
+A Region consists of multiple Availability Zones.
+
 ---
 ## Problem: Single Point of Failure
 If all systems are deployed in one location, a failure (e.g., power outage) can bring down the entire system.
