@@ -1,4 +1,4 @@
-# STEP14: AWS Overview
+# STEP13: AWS Overview
 
 ## Objective
 Understand AWS as a high-level architecture and explain how it relates to API design.
