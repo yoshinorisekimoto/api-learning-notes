@@ -2,6 +2,7 @@
 
 ## What is Lambda?
 Lambda is a serverless compute service in AWS.
+Serverless does not mean there are no servers, but that you do not manage them.
 It runs code only when triggered by an event.
 
 ---
