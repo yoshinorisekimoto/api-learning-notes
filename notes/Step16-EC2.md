@@ -1,7 +1,7 @@
 # Step16: EC2 (Elastic Compute Cloud)
 
 ## What is EC2?
-EC2 is a virtual server in AWS.It allows you to run applications on a cloud-based computer.
+EC2 is a virtual server in AWS. It allows you to run applications on a cloud-based computer.
 EC2 instances are implemented as virtual machines (VMs), which are software-based computers running on physical hardware.
 
 ---
