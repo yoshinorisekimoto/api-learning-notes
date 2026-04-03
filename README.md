@@ -32,8 +32,10 @@ Each topic is organized step by step:
 - [Step 12 - Design Thinking (Why API Design Matters)](notes/Step12-Design-Thinking.md)
 - [Step 13 - AWS Overview](notes/Step13-AWS-Overview.md)
 - [Step 14 - Region/Availability Zone](notes/Step14-Region-Availability-Zone.md)
-- [Step 15 - VPC (Virtual Private Cloud)](notes/Step15-VPC.md)
-- [Step 16 - EC2 (Elastic Compute Cloud)](notes/Step16-EC2.md)
+- [Step 15 - VPC (Virtual Private Cloud)](notes/Step15-Virtual-Private-Cloud.md)
+- [Step 16 - EC2 (Elastic Compute Cloud)](notes/Step16-Elastic-Compute-Cloud.md)
+- [Step 17 - Lambda (Serverless)](notes/Step17-Lambda-Serverless.md)
+- [Step 18 - S3 (Object Storage)](notes/Step18-S3-Object-Storage.md)
 
 ## Related Learning
 Extending API-level understanding to system-level architecture:
