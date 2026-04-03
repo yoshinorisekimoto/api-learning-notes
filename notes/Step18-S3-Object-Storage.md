@@ -17,8 +17,6 @@ Examples include:
 ## Path (Key-Based Access)
 In S3, each file is identified by a key (path-like string), such as:
 images/profile/user1.jpg
-This is not a real folder structure, but a flat storage model.
-Files are retrieved using this key.
 
 ---
 
