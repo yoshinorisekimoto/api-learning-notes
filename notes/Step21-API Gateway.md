@@ -6,14 +6,16 @@ API Gateway is a service that acts as the entry point for APIs in AWS. It receiv
 ---
 ## Core Functions
 ### Endpoint Management
-API Gateway defines and manages API endpoints such as:
-- GET /users
-- POST /orders
+API Gateway defines and manages API endpoints.
+
+---
+### Routing
+API Gateway routes requests to backend services such as Lambda or EC2.
 
 ---
 ### Rate Limiting
-API Gateway controls traffic by limiting the number of requests.
-This helps protect the system from overload.
+API Gateway controls traffic by limiting requests.
+Rate limiting protects APIs from excessive traffic and ensures stable performance.
 
 ---
 ## Role in Architecture
