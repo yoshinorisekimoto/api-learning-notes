@@ -1,7 +1,7 @@
 # Step19: RDS (Relational Database Service)
 
 ## What is RDS?
-RDS is a managed relational database service in AWS.It uses SQL-based queries to manage structured data.
+RDS is a managed relational database service in AWS. It uses SQL-based queries to manage structured data.
 
 ---
 ## Structured Data
