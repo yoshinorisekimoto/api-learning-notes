@@ -8,6 +8,7 @@ It defines who can access resources and what actions they can perform.
 ## Authentication vs Authorization
 - Authentication: verifies identity (who you are)
 - Authorization: defines permissions (what you can do)
+Authentication happens first, followed by authorization.
 
 ---
 ## Core Components
