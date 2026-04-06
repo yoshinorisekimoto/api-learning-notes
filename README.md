@@ -37,6 +37,7 @@ Each topic is organized step by step:
 - [Step 17 - Lambda (Serverless)](notes/Step17-Lambda-Serverless.md)
 - [Step 18 - S3 (Object Storage)](notes/Step18-S3-Object-Storage.md)
 - [Step 19 - RDS (Relational Database Service)](notes/Step19-Relational-Database-Service.md)
+- [Step 20 - IAM (Identity and Access Management)](notes/Step20-Identity-and-Access-Management.md)
 
 ## Related Learning
 Extending API-level understanding to system-level architecture:
