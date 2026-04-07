@@ -24,6 +24,7 @@ SNS distributes events to multiple subscribers.
 ---
 ## Key Concept
 Event = push-based execution model
+Event-driven architecture enables loosely coupled systems where components do not need to directly call each other.
 
 ---
 ## Difference from API
