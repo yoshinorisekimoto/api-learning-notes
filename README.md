@@ -39,6 +39,7 @@ Each topic is organized step by step:
 - [Step 19 - RDS (Relational Database Service)](notes/Step19-Relational-Database-Service.md)
 - [Step 20 - IAM (Identity and Access Management)](notes/Step20-Identity-and-Access-Management.md)
 - [Step 21 - API Gateway](notes/Step21-API-Gateway.md)
+- [Step 22 - Event (Push-Based Architecture)](notes/Step22-Event.md)
 
 ## Related Learning
 Extending API-level understanding to system-level architecture:
