@@ -7,6 +7,7 @@ Scaling is the ability to adjust system capacity based on demand.
 ## Why Scaling is Needed
 Systems must handle varying levels of traffic.
 Without scaling, systems can become slow or unavailable under high load.
+Scaling helps maintain availability by handling increased load without system failure.
 
 ---
 ## Auto Scaling (EC2)
