@@ -5,7 +5,8 @@ High availability means designing systems that continue to operate without inter
 
 ---
 ## Single Point of Failure
-A single point of failure is a component that can bring down the entire system if it fails.
+A single point of failure is a component that can bring down the entire system.
+Systems should be designed with the assumption that failures will happen.
 
 ---
 ## Multi-AZ
