@@ -18,6 +18,7 @@ Cloud allows flexible cost management based on actual demand.
 ## Relationship to Scaling
 As demand increases, both resource usage and cost increase.
 As demand decreases, cost decreases.
+Cost can increase rapidly with scale if not properly managed.
 
 ---
 ## Relationship to SaaS
