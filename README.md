@@ -42,6 +42,7 @@ Each topic is organized step by step:
 - [Step 22 - Event (Push-Based Architecture)](notes/Step22-Event.md)
 - [Step 23 - Scaling](notes/Step23-Scaling.md)
 - [Step 24 - High Availability (HA)](notes/Step24-High-Availability.md)
+- [Step 25 - Cost Model](notes/Step25-Cost-Model.md)
 
 ## Related Learning
 Extending API-level understanding to system-level architecture:
