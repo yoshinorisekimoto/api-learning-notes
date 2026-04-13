@@ -21,8 +21,8 @@ images/profile/user1.jpg
 ---
 
 ## Difference from Database
-S3 stores files and retrieves them using a key (unique identifier), not queries.
-Databases store and manage structured data, allowing retrieval using queries (SQL).
+- S3 stores files and retrieves them using a key (unique identifier), not queries.
+- Databases store and manage structured data, allowing retrieval using queries (SQL).
 
 ---
 
