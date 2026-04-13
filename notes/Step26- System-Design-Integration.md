@@ -28,3 +28,4 @@ A complete system consists of:
 - Event handling: EventBridge
 
 All components work together to build scalable, secure, and reliable systems.
+This architecture is designed to be scalable, reliable, and loosely coupled.
