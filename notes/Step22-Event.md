@@ -5,12 +5,13 @@ An event represents something that has happened in the system.
 
 ---
 ## Push vs Pull
-- API: pull-based (request/response)
-- Event: push-based (triggered automatically)
+- Push vs Pull
+API is typically request-driven (pull-based), where clients request data.
+Event-driven systems are push-based, where actions are triggered automatically when something happens.
 
 ---
 ## Webhook vs Event Services
-Webhooks are simple push mechanisms.
+Webhooks are simple push mechanisms implemented using HTTP APIs.
 AWS extends this with event-driven services for better scalability and management.
 
 ---
@@ -23,7 +24,7 @@ SNS distributes events to multiple subscribers.
 
 ---
 ## Key Concept
-Event = push-based execution model
+Event = push-based execution model, often implemented using APIs such as webhooks.
 Event-driven architecture enables loosely coupled systems where components do not need to directly call each other.
 
 ---
